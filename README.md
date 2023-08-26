@@ -1,1 +1,1 @@
-# Road-accident-analysis
+The Power BI dashboard for road accident analysis offers a visually intuitive overview of accident data. Through interactive charts and maps, it presents key insights into accident frequency, severity, locations, and contributing factors. Users can explore trends over time, identify high-risk areas, and gain actionable insights for informed decision-making in road safety and infrastructure improvements.
